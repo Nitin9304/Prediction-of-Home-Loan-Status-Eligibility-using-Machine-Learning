@@ -1,3 +1,5 @@
+# Prediction of Home Loan Status Eligibility using Machine Learning
+
 Description: Developed a machine learning model to predict the eligibility status of home loan applicants based on various financial and demographic factors. Leveraged a diverse dataset of historical loan applications to train predictive models, including logistic regression and ensemble methods. Conducted feature engineering and implemented rigorous model evaluation techniques to ensure accuracy.
 
 Skills Utilized: Machine Learning, Predictive Modeling, Data Preprocessing, Feature Engineering, Python, Logistic Regression, Ensemble Methods, Financial Data Analysis.
