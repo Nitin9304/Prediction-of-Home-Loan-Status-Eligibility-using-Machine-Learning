@@ -4,7 +4,7 @@ Description: Developed a machine learning model to predict the eligibility statu
 
 Skills Utilized: Machine Learning, Predictive Modeling, Data Preprocessing, Feature Engineering, Python, Logistic Regression, Ensemble Methods, Financial Data Analysis.
 
-Impact: Streamlined the home loan approval process by automating eligibility predictions, reducing manual workload, and improving decision-making efficiency. The project contributes to faster and more accurate loan processing, enhancing the overall experience for both applicants and financial institutions.
+Impact: Streamlined the home loan approval process by automating eligibility predictions, reducing manual workload, and improving decision-making efficiency. The project contributes to faster and more accurate loan processing, enhancing the overall experience for both applicants and financial institutions
 
 ![image_alt](https://github.com/Nitin9304/Prediction-of-Home-Loan-Status-Eligibility-using-Machine-Learning/blob/aa3fa69e633e3eb7f441183a99837af5df70f40a/Screenshot%202025-04-04%20232022.png)
 
