@@ -8,5 +8,7 @@ Impact: Streamlined the home loan approval process by automating eligibility pre
 
 ![image_alt](https://github.com/Nitin9304/Prediction-of-Home-Loan-Status-Eligibility-using-Machine-Learning/blob/6c2a77cd5446b479d37846625088f775403ba013/housing.jpg).
 
+![alt_image](https://github.com/Nitin9304/Prediction-of-Home-Loan-Status-Eligibility-using-Machine-Learning/blob/dbef0f40c24554841c45c3402d15ff78857dcd42/Home-Loan.jpg).
+
 ![image_alt](https://github.com/Nitin9304/Prediction-of-Home-Loan-Status-Eligibility-using-Machine-Learning/blob/aa3fa69e633e3eb7f441183a99837af5df70f40a/Screenshot%202025-04-04%20232022.png)
 
